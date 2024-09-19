@@ -1,6 +1,6 @@
 {
   "name": "health-24",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "private": true,
   "scripts": {
     "dev": "code . & start http://localhost:3000 & next dev",
@@ -20,6 +20,7 @@
     "lucide-react": "^0.437.0",
     "next": "^14.2.12",
     "next-themes": "^0.3.0",
+    "node-appwrite": "^14.1.0",
     "react": "^18",
     "react-datepicker": "^7.3.0",
     "react-dom": "^18",
